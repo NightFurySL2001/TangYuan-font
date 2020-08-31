@@ -1,0 +1,21 @@
+StartChar: H22073
+Encoding: 8565 9633 2534
+GlifName: H_22073
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+931 778 m 1
+ 931 -60 l 1
+ 93 -60 l 1
+ 93 778 l 1
+ 931 778 l 1
+861 708 m 1
+ 162 708 l 1
+ 162 9 l 1
+ 861 9 l 1
+ 861 708 l 1
+EndSplineSet
+Validated: 1
+EndChar

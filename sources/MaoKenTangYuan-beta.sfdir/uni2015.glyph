@@ -1,0 +1,19 @@
+StartChar: uni2015
+Encoding: 8490 8213 2466
+GlifName: uni2015
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+55 359 m 256
+ 55 382.333333333 69 394 97 394 c 2
+ 926 394 l 2
+ 954.666666667 394 969 382.333333333 969 359 c 256
+ 969 335.666666667 954.666666667 324 926 324 c 2
+ 97 324 l 2
+ 69 324 55 335.666666667 55 359 c 256
+EndSplineSet
+Validated: 1
+Substitution2: "vertVerticalAlternateslookup0 subtable" uni2015.vert
+EndChar

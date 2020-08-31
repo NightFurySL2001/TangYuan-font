@@ -1,0 +1,15 @@
+StartChar: triagup
+Encoding: 8568 9650 2537
+GlifName: triagup
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+512 772 m 1
+ 969 -22 l 1
+ 55 -22 l 1
+ 512 772 l 1
+EndSplineSet
+Validated: 1
+EndChar

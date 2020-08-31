@@ -1,0 +1,16 @@
+StartChar: uniFF3F
+Encoding: 9055 65343 2626
+GlifName: uniF_F_3F_
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+15 -68 m 1
+ 1008 -68 l 1
+ 1008 -138 l 1
+ 15 -138 l 1
+ 15 -68 l 1
+EndSplineSet
+Validated: 1
+EndChar

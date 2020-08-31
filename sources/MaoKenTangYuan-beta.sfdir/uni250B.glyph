@@ -1,0 +1,31 @@
+StartChar: uni250B
+Encoding: 10543 9483 6314
+GlifName: uni250B_
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+574 871 m 1
+ 574 646 l 1
+ 450 646 l 1
+ 450 871 l 1
+ 574 871 l 1
+574 604 m 1
+ 574 379 l 1
+ 450 379 l 1
+ 450 604 l 1
+ 574 604 l 1
+574 339 m 1
+ 574 114 l 1
+ 450 114 l 1
+ 450 339 l 1
+ 574 339 l 1
+574 72 m 1
+ 574 -153 l 1
+ 450 -153 l 1
+ 450 72 l 1
+ 574 72 l 1
+EndSplineSet
+Validated: 1
+EndChar

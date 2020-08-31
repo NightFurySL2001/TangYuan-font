@@ -1,0 +1,16 @@
+StartChar: filledbox
+Encoding: 8566 9632 2535
+GlifName: filledbox
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+931 778 m 1
+ 931 -60 l 1
+ 93 -60 l 1
+ 93 778 l 1
+ 931 778 l 1
+EndSplineSet
+Validated: 1
+EndChar

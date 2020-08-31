@@ -1,0 +1,24 @@
+StartChar: uni253D
+Encoding: 10593 9533 6339
+GlifName: uni253D_
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+527 343 m 1
+ 527 -153 l 1
+ 497 -153 l 1
+ 497 296 l 1
+ 0 296 l 1
+ 0 420 l 1
+ 497 420 l 1
+ 497 871 l 1
+ 527 871 l 1
+ 527 374 l 1
+ 1024 374 l 1
+ 1024 343 l 1
+ 527 343 l 1
+EndSplineSet
+Validated: 1
+EndChar

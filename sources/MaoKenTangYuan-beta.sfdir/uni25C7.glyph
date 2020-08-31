@@ -1,0 +1,21 @@
+StartChar: uni25C7
+Encoding: 8563 9671 2532
+GlifName: uni25C_7
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+512 815 m 1
+ 969 359 l 1
+ 512 -98 l 1
+ 55 359 l 1
+ 512 815 l 1
+512 716 m 1
+ 155 359 l 1
+ 512 2 l 1
+ 869 359 l 1
+ 512 716 l 1
+EndSplineSet
+Validated: 1
+EndChar

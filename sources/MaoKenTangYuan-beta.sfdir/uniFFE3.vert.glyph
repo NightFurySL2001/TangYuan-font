@@ -1,0 +1,16 @@
+StartChar: uniFFE3.vert
+Encoding: 65586 -1 6302
+GlifName: uniF_F_E_3.vert
+Width: 1024
+Flags: W
+VStem: 938 70<-138 855>
+LayerCount: 2
+Fore
+SplineSet
+938 855 m 1
+ 1008 855 l 1
+ 1008 -138 l 1
+ 938 -138 l 1
+ 938 855 l 1
+EndSplineSet
+EndChar

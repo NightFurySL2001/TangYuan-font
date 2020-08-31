@@ -1,0 +1,19 @@
+StartChar: uniFF4C
+Encoding: 9068 65356 2639
+GlifName: uniF_F_4C_
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+463 683 m 1
+ 463 720.333333333 479 739 511 739 c 256
+ 543 739 559 720.333333333 559 683 c 2
+ 559 35 l 2
+ 559 -3 543 -22 511 -22 c 256
+ 479 -22 463 -3 463 35 c 2
+ 463 683 l 1
+ 463 683 l 1
+EndSplineSet
+Validated: 5
+EndChar

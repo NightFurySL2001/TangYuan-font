@@ -1,0 +1,17 @@
+StartChar: uniFFE3
+Encoding: 9086 65507 2657
+GlifName: uniF_F_E_3
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+15 855 m 1
+ 1008 855 l 1
+ 1008 785 l 1
+ 15 785 l 1
+ 15 855 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "vertVerticalAlternateslookup0 subtable" uniFFE3.vert
+EndChar

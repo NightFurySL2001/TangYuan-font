@@ -1,0 +1,77 @@
+SplineFontDB: 3.2
+FontName: MaoKenTangYuan-beta
+FullName: MaoKenTangYuan-beta0.10
+FamilyName: MaoKenTangYuan (beta)
+Weight: Regular
+Copyright: [Kosugi Maru]\nCopyright 2010 MOTOYA CO.,LTD.\n\n[Varela Round]\nCopyright 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.\n\n[jf open huninn]\nCopyright 2020 The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn' under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).\n\n[MaoKen TangYuan]\nCopyright 2020 Maoken, NFSL2001. The MaoKen TangYuan font is redistributed by maoken.com, with Reserved Font Names 'TangYuan' and 'Tang Yuan' under SIL Open Font License.
+Version: 0.10beta
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 871
+Descent: 153
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMxmbwAA" 1
+Layer: 1 0 "+Uk1mbwAA" 0
+HasVMetrics: 1
+XUID: [1021 200 329529104 32767]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1574648366
+ModificationTime: 1598803798
+PfmFamily: 33
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 15 5 0 0 0 0 0 0 0
+OS2TypoAscent: 871
+OS2TypoAOffset: 0
+OS2TypoDescent: -153
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1000
+OS2WinAOffset: 0
+OS2WinDescent: 300
+OS2WinDOffset: 0
+HheadAscent: 871
+HheadAOffset: 0
+HheadDescent: -153
+HheadDOffset: 0
+OS2SubXSize: 665
+OS2SubYSize: 614
+OS2SubXOff: 0
+OS2SubYOff: 76
+OS2SupXSize: 665
+OS2SupYSize: 614
+OS2SupXOff: 0
+OS2SupYOff: 358
+OS2StrikeYSize: 38
+OS2StrikeYPos: 408
+OS2CapHeight: 700
+OS2XHeight: 512
+OS2Vendor: 'MAOK'
+OS2CodePages: 00040001.00000000
+OS2UnicodeRanges: 800002af.080f6cf8.00000010.00000000
+Lookup: 1 0 0 "vertVerticalAlternateslookup0" { "vertVerticalAlternateslookup0 subtable" ("vert") } ['vrt2' ('latn' <'dflt' > 'kana' <'dflt' > 'hani' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'bopo' <'dflt' > 'DFLT' <'dflt' > ) 'vert' ('latn' <'dflt' > 'kana' <'dflt' > 'hani' <'dflt' > 'grek' <'dflt' > 'cyrl' <'dflt' > 'bopo' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "ligaLigatureslookup1" { "ligaLigatureslookup1+Zv9O44ho"  } ['liga' ('latn' <'dflt' > 'kana' <'dflt' > 'hani' <'dflt' > 'bopo' <'dflt' > 'DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 2052 "" "+cytVQ39RfNZXBk9T (+bUuL1XJI)" "Regular" "" "+cytVQ39RfNZXBk9T--+bUuL1XJI-0.10" "0.10+bUuL1XJI" "" "" "+cytVQ39R&+WRxxXk5LTlAA-2001" "" "" "" "http://www.maoken.com" "This Font Software is licensed under the SIL Open Font License,Version 1.1.This Font Software is distributed on an +ACIA-AS IS+ACIA,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,either express or implied.See the SIL Open Font License for the specific languages,permissions and limitations governing your use of this Font Software." "http://scripts.sil.org/OFL"
+LangName: 1033 "[Kosugi Maru]+AAoA-Copyright+AKkA 2010 MOTOYA CO.,LTD.+AAoACgAA[Varela Round]+AAoA-Copyright+AKkA 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.+AAoACgAA[jf open huninn]+AAoA-Copyright+AKkA 2020 The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn' under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).+AAoACgAA[MaoKen TangYuan]+AAoA-Copyright+AKkA 2020 Maoken, NFSL2001. The MaoKen TangYuan font is redistributed by maoken.com, with Reserved Font Names 'TangYuan' and 'Tang Yuan' under SIL Open Font License." "" "Regular" "MaoKenTangYuan-beta0.10;20200831;Regular;0.10beta" "" "" "" "" "Maoken&NFSL2001" "" "" "" "http://www.maoken.com" "This Font Software is licensed under the SIL Open Font License,Version 1.1.This Font Software is distributed on an +ACIA-AS IS+ACIA,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,either express or implied.See the SIL Open Font License for the specific languages,permissions and limitations governing your use of this Font Software." "http://scripts.sil.org/OFL"
+GaspTable: 3 7 10 19 3 65535 11 1
+Encoding: gb2312
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 38 38 13
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 307200 153600 102400 523264 1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

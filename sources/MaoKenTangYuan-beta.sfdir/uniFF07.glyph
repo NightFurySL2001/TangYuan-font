@@ -1,0 +1,19 @@
+StartChar: uniFF07
+Encoding: 8999 65287 2570
+GlifName: uniF_F_07
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+479 617 m 2
+ 460 740 l 1
+ 457 761 l 1
+ 457 797 475.666666667 815 513 815 c 0
+ 549 815 567 797 567 761 c 1
+ 545 617 l 2
+ 542.333333333 594.333333333 531.333333333 583 512 583 c 0
+ 494 583 483 594.333333333 479 617 c 2
+EndSplineSet
+Validated: 1
+EndChar

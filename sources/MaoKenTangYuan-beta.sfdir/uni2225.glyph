@@ -1,0 +1,26 @@
+StartChar: uni2225
+Encoding: 8526 8741 2499
+GlifName: uni2225
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+359 -56 m 2
+ 359 773 l 2
+ 359 801 370.666666667 815 394 815 c 256
+ 417.333333333 815 429 801 429 773 c 2
+ 429 -56 l 2
+ 429 -84 417.333333333 -98 394 -98 c 256
+ 370.666666667 -98 359 -84 359 -56 c 2
+593 -56 m 2
+ 593 773 l 2
+ 593 801 604.666666667 815 628 815 c 256
+ 651.333333333 815 663 801 663 773 c 2
+ 663 -56 l 2
+ 663 -84 651.333333333 -98 628 -98 c 256
+ 604.666666667 -98 593 -84 593 -56 c 2
+EndSplineSet
+Validated: 1
+Substitution2: "vertVerticalAlternateslookup0 subtable" uni2225.vert
+EndChar

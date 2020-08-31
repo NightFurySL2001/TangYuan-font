@@ -1,0 +1,22 @@
+StartChar: uni2532
+Encoding: 10582 9522 6334
+GlifName: uni2532
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+450 374 m 1
+ 450 420 l 1
+ 1024 420 l 1
+ 1024 296 l 1
+ 574 296 l 1
+ 574 -153 l 1
+ 450 -153 l 1
+ 450 343 l 1
+ 0 343 l 1
+ 0 374 l 1
+ 450 374 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,18 @@
+StartChar: Iota
+Encoding: 9769 921 2835
+GlifName: I_ota
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+458 40 m 2
+ 458 677 l 2
+ 458 718.333333333 476 739 512 739 c 0
+ 547.333333333 739 565 718.333333333 565 677 c 2
+ 565 40 l 2
+ 565 -1.33333333333 547.333333333 -22 512 -22 c 0
+ 476 -22 458 -1.33333333333 458 40 c 2
+EndSplineSet
+Validated: 1
+EndChar

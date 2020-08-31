@@ -1,0 +1,19 @@
+StartChar: uni2160
+Encoding: 8817 8544 2554
+GlifName: uni2160
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+460 710 m 1
+ 460 750.666666667 477.333333333 771 512 771 c 0
+ 545.333333333 771 562 750.666666667 562 710 c 2
+ 562 7 l 2
+ 562 -33.6666666667 545 -54 511 -54 c 256
+ 477 -54 460 -33.6666666667 460 7 c 2
+ 460 710 l 1
+ 460 710 l 1
+EndSplineSet
+Validated: 5
+EndChar

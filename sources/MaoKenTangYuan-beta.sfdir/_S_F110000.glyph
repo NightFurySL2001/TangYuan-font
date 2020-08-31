@@ -1,0 +1,16 @@
+StartChar: SF110000
+Encoding: 10534 9474 3006
+GlifName: S_F_110000
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+497 -153 m 1
+ 497 871 l 1
+ 527 871 l 1
+ 527 -153 l 1
+ 497 -153 l 1
+EndSplineSet
+Validated: 1
+EndChar

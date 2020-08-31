@@ -1,0 +1,19 @@
+StartChar: uni25B3
+Encoding: 8567 9651 2536
+GlifName: uni25B_3
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+55 -26 m 1
+ 512 785 l 1
+ 969 -26 l 1
+ 55 -26 l 1
+174 44 m 1
+ 849 44 l 1
+ 512 643 l 1
+ 174 44 l 1
+EndSplineSet
+Validated: 1
+EndChar

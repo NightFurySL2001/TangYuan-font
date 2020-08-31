@@ -1,0 +1,18 @@
+StartChar: uni3127
+Encoding: 10343 12583 3001
+GlifName: uni3127
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+97 357 m 0
+ 97 385.666666667 117.333333333 400 158 400 c 2
+ 866 400 l 2
+ 906 400 926 385.333333333 926 356 c 0
+ 926 326 906 311 866 311 c 2
+ 158 311 l 2
+ 117.333333333 311 97 326.333333333 97 357 c 0
+EndSplineSet
+Validated: 1
+EndChar

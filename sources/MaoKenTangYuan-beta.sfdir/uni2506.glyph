@@ -1,0 +1,26 @@
+StartChar: uni2506
+Encoding: 10538 9478 6309
+GlifName: uni2506
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+527 871 m 1
+ 527 576 l 1
+ 497 576 l 1
+ 497 871 l 1
+ 527 871 l 1
+527 507 m 1
+ 527 212 l 1
+ 497 212 l 1
+ 497 507 l 1
+ 527 507 l 1
+527 142 m 1
+ 527 -153 l 1
+ 497 -153 l 1
+ 497 142 l 1
+ 527 142 l 1
+EndSplineSet
+Validated: 1
+EndChar

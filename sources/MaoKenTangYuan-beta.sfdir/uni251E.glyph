@@ -1,0 +1,22 @@
+StartChar: uni251E
+Encoding: 10562 9502 6323
+GlifName: uni251E_
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+497 343 m 1
+ 450 343 l 1
+ 450 871 l 1
+ 574 871 l 1
+ 574 374 l 1
+ 1024 374 l 1
+ 1024 343 l 1
+ 527 343 l 1
+ 527 -153 l 1
+ 497 -153 l 1
+ 497 343 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,20 @@
+StartChar: SF070000
+Encoding: 10584 9524 3028
+GlifName: S_F_070000
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+527 374 m 1
+ 1024 374 l 1
+ 1024 343 l 1
+ 0 343 l 1
+ 0 374 l 1
+ 497 374 l 1
+ 497 871 l 1
+ 527 871 l 1
+ 527 374 l 1
+EndSplineSet
+Validated: 1
+EndChar

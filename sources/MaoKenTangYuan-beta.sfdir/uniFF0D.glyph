@@ -1,0 +1,19 @@
+StartChar: uniFF0D
+Encoding: 9005 65293 2576
+GlifName: uniF_F_0D_
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+165 359 m 256
+ 165 382.333333333 179.333333333 394 208 394 c 2
+ 815 394 l 2
+ 844.333333333 394 859 382.333333333 859 359 c 256
+ 859 335.666666667 844.333333333 324 815 324 c 2
+ 208 324 l 2
+ 179.333333333 324 165 335.666666667 165 359 c 256
+EndSplineSet
+Validated: 1
+Substitution2: "vertVerticalAlternateslookup0 subtable" uniFF0D.vert
+EndChar

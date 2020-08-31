@@ -1,0 +1,20 @@
+StartChar: uni2538
+Encoding: 10588 9528 3030
+GlifName: uni2538
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 343 m 1
+ 0 374 l 1
+ 450 374 l 1
+ 450 871 l 1
+ 574 871 l 1
+ 574 374 l 1
+ 1024 374 l 1
+ 1024 343 l 1
+ 0 343 l 1
+EndSplineSet
+Validated: 1
+EndChar

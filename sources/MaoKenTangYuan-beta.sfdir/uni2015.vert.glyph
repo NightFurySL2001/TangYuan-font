@@ -1,0 +1,18 @@
+StartChar: uni2015.vert
+Encoding: 65577 -1 6293
+GlifName: uni2015.vert
+Width: 1024
+Flags: W
+VStem: 477 70<-96.2671 813.267>
+LayerCount: 2
+Fore
+SplineSet
+477 -56 m 2
+ 477 773 l 2
+ 477 801 488.666666667 815 512 815 c 256
+ 535.333333333 815 547 801 547 773 c 2
+ 547 -56 l 2
+ 547 -84 535.333333333 -98 512 -98 c 256
+ 488.666666667 -98 477 -84 477 -56 c 2
+EndSplineSet
+EndChar

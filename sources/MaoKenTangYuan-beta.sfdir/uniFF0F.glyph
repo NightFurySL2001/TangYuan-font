@@ -1,0 +1,20 @@
+StartChar: uniFF0F
+Encoding: 9007 65295 2578
+GlifName: uniF_F_0F_
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+55 -63 m 0
+ 55 -53 60 -43 70 -33 c 2
+ 903 800 l 2
+ 912.333333333 810 922.333333333 815 933 815 c 0
+ 957 815 969 803.333333333 969 780 c 0
+ 969 770 963.666666667 760 953 750 c 2
+ 120 -83 l 2
+ 110 -93 100 -98 90 -98 c 0
+ 66.6666666667 -98 55 -86.3333333333 55 -63 c 0
+EndSplineSet
+Validated: 1
+EndChar
