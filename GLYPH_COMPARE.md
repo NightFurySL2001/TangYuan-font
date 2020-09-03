@@ -37,6 +37,7 @@
 匀|内为横、提|内为点、提（冫）  |:black_square_button:|均筠鋆钧韵|
 户|横点（戸）*|点（户）         |:black_square_button:|启扁所驴煽|改为直点
 今|从“亼”|从“亽”                |:black_square_button:|吟念琴贪焓|
+平|从“八”“丷”皆有|从“丷”        |:black_square_button:|坪抨苹萍鲆|
 反|第一笔为横|第一笔为撇        |:black_square_button:|叛舨返阪饭|
 穴|在上时从“儿”|在上时从“八”    |:black_square_button:|倥窃窈窟腔|
 处|从“人”|从“卜”                |:black_square_button:|咎昝晷糌绺|
