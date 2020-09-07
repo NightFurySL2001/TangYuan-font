@@ -14,66 +14,69 @@
 :---:|:-------|:---------|:-------|:-----|:-----
 彐|中横穿头|中横不穿头          |:black_square_button:|急雪彗煞隐|简化字“刍”不穿头，优先修改
 丑|中横穿头|中横不穿头          |:black_square_button:|羞妞扭纽馐|优先修改
-内|内从“入”|内从“人”            |:black_square_button:|枘汭芮讷钠|优先修改
+内|内作“入”|内作“人”            |:black_square_button:|枘汭芮讷钠|优先修改
 冎|内横向右|内横向左            |:black_square_button:|骨滑骷髌髓|优先修改
 𠬶灵帚寻|第二笔穿头|第二笔不穿头|:black_square_button:|侵寝棂埽荨|优先修改
-吴|吳|从“天”                    |:black_square_button:|俣娱虞蜈误|优先修改
+吴|吳|作“天”                    |:black_square_button:|俣娱虞蜈误|优先修改
 吕|中有短撇|中无短撇            |:black_square_button:|宫榈稆铝闾|优先修改
-录|除本字外，从“彑”|从“⼹”      |:black_square_button:|剥氯碌绿逯|优先修改
-蚤|从“㕚”|从“叉”                |:black_square_button:|搔瘙骚　　|优先修改
+录|除本字外，作“彑”|作“⼹”      |:black_square_button:|剥氯碌绿逯|优先修改
+蚤|作“㕚”|作“叉”                |:black_square_button:|搔瘙骚　　|优先修改
 真|眞|真                        |:black_square_button:|填巅癫阗颠|优先修改
-益|从“𠔁”|从“丷八”              |:black_square_button:|溢缢镒隘蠲|优先修改
-强|从“虽”“𧈧”皆有|从“虽”        |:black_square_button:|犟糨膙襁镪|优先修改
-敢|从“工”|从“乛”                |:black_square_button:|憨撖橄澉阚|优先修改
+益|作“𠔁”|作“丷八”              |:black_square_button:|溢缢镒隘蠲|优先修改
+强|作“虽”“𧈧”皆有|作“虽”        |:black_square_button:|犟糨膙襁镪|优先修改
+敢|作“工”|作“乛”                |:black_square_button:|憨撖橄澉阚|优先修改
 与|第三笔穿头|第三笔不穿头      |:black_square_button:|写屿欤泻玙|优先修改
 戋|三横|两横                    |:black_square_button:|栈残浅溅盏|优先修改
-𰁜|形似“亦”|中间为二竖          |:black_square_button:|变弈湾蛮滦|非从“䜌”简化者无关，优先修改
+𰁜|形似“亦”|中间为二竖          |:black_square_button:|变弈湾蛮滦|非作“䜌”简化者无关，优先修改
 𠄌|𠄌断笔|𠄌连笔                |:black_square_button:|丩畏长比襄|
 厶|㇜断笔|㇜连笔                |:black_square_button:|去县弃夋台|
 亡|第三笔为竖曲|第三笔为竖横    |:black_square_button:|忘芒忙慌赢|传承字形第二笔应不穿头
 㐄牙旡|㇜断笔|㇜连笔            |:black_square_button:|降芽雅既簪|
-㓁|从“儿”|从“八”                |:black_square_button:|罕探深琛滘|
+㓁|作“儿”|作“八”                |:black_square_button:|罕探深琛滘|
 屯|第一笔为撇|第一笔为横        |:black_square_button:|吨沌莼钝顿|
 匀|内为横、提|内为点、提（冫）  |:black_square_button:|均筠鋆钧韵|
 户|横点（戸）*|点（户）         |:black_square_button:|启扁所驴煽|改为直点
-今|从“亼”|从“亽”                |:black_square_button:|吟念琴贪焓|
-平|从“八”“丷”皆有|从“丷”        |:black_square_button:|坪抨苹萍鲆|
+今|作“亼”|作“亽”                |:black_square_button:|吟念琴贪焓|
+平|作“八”“丷”皆有|作“丷”        |:black_square_button:|坪抨苹萍鲆|
 反|第一笔为横|第一笔为撇        |:black_square_button:|叛舨返阪饭|
-穴|在上时从“儿”|在上时从“八”    |:black_square_button:|倥窃窈窟腔|
-处|从“人”|从“卜”                |:black_square_button:|咎昝晷糌绺|
+穴|在上时作“儿”|在上时作“八”    |:black_square_button:|倥窃窈窟腔|
+处|作“人”|作“卜”                |:black_square_button:|咎昝晷糌绺|
 氐|最后一笔为横|最后一笔为点    |:black_square_button:|低底胝邸鸱|
-㕣|从“八”|从“几”                |:black_square_button:|沿船铅　　|
+㕣|作“八”|作“几”                |:black_square_button:|沿船铅　　|
 癶|连笔分开皆有|分开            |:black_square_button:|凳澄癸葵阕|统一为分开
-令|从“亼”从“⼙ ”|从“亽”从“龴”   |:black_square_button:|冷邻零领龄|
-犮|从“犬”加撇|从“友”加点        |:black_square_button:|拔菝跋钹魃|
-巨|从“工”|从“匚”                |:black_square_button:|渠磲苣讵距|
+令|作“亼”作“⼙ ”|作“亽”作“龴”   |:black_square_button:|冷邻零领龄|
+册|作“𦉫”|作两“冂”              |:black_square_button:|删姗栅珊粣|
+犮|作“犬”加撇|作“友”加点        |:black_square_button:|拔菝跋钹魃|
+巨|作“工”|作“匚”                |:black_square_button:|渠磲苣讵距|
 礻|形似“示”|形似“衤”少一点      |:black_square_button:|礼祥祧禧视|
 𡗗|末捺穿头|末捺不穿头          |:black_square_button:|俸凑捧泰臻|
 龹|末捺穿头|末捺不穿头          |:black_square_button:|倦拳滕眷誊|
-全|从“入”|从“人”                |:black_square_button:|拴痊筌醛铨|
+全|作“入”|作“人”                |:black_square_button:|拴痊筌醛铨|
 舟|最后一笔为竖|最后一笔为点    |:black_square_button:|舱舶搬盘辀|
 乑|三人形|左两撇，右撇、捺      |:black_square_button:|聚鄹骤　　|
 次|横、提|点、提（冫）          |:black_square_button:|咨姿恣瓷资|
 ⺶|中撇断笔|中撇不断笔          |:black_square_button:|羌差搓蹉蜣|
 角|竖下不穿笔|竖下穿笔          |:black_square_button:|嘴蟹觞触邂|
-㡀|从“𠔁”|从“丷八”              |:black_square_button:|弊憋撇蔽鳖|
-杀|从“木”|从“朩”                |:black_square_button:|刹弑脎铩　|
-即（右）|从“皀”|从郎（右）减一点|:black_square_button:|即卿厩廄嚼|
-呈|从“𡈼”|从“王”                |:black_square_button:|埕程逞郢酲|
+㡀|作“𠔁”|作“丷八”              |:black_square_button:|弊憋撇蔽鳖|
+杀|作“木”|作“朩”                |:black_square_button:|刹弑脎铩　|
+即（右）|作“皀”|作郎（右）减一点|:black_square_button:|即卿厩廄嚼|
+呈|作“𡈼”|作“王”                |:black_square_button:|埕程逞郢酲|
 非|第一笔为撇，第四笔为提|第一笔为竖，第四笔为横|:black_square_button:|俳匪罪辈靠|
-虎亮|从“儿”|从“几”              |:black_square_button:|唬彪虢褫饕|
-夌坴畟|从“儿”|从“八”            |:black_square_button:|凌棱菱逵稷|
-酋|从“八”|从“丷”                |:black_square_button:|奠猷蹲遒鳟|
-亲|从“木”|从“朩”                |:black_square_button:|新榇薪　　|
-炭|从“屵”不出头|从“灰”出头      |:black_square_button:|碳羰　　　|
+虎亮|作“儿”|作“几”              |:black_square_button:|唬彪虢褫饕|
+夌坴畟|作“儿”|作“八”            |:black_square_button:|凌棱菱逵稷|
+酋|作“八”|作“丷”                |:black_square_button:|奠猷蹲遒鳟|
+亲|作“木”|作“朩”                |:black_square_button:|新榇薪　　|
+炭|作“屵”不出头|作“灰”出头      |:black_square_button:|碳羰　　　|
 甚|最后一笔为竖曲，内为“儿”|最后一笔为竖横，内为“八”|:black_square_button:|勘堪斟谌葚|
-脊|四横|从“丷八”                |:black_square_button:|嵴瘠蹐鹡　|
+起|作“巳”|作“己”                |:black_square_button:||
+脊|四横|作“丷八”                |:black_square_button:|嵴瘠蹐鹡　|
 鬼|中撇断笔|中撇不断笔          |:black_square_button:|傀巍魂魃魔|
 衮|八出头，厶断笔|公，不断笔    |:black_square_button:|滚磙　　　|
-麻|从“𣏟”“林”皆有|从“林”        |:black_square_button:|嘛嬷靡麽蘑|
-曾|从“八”|从“丷”                |:black_square_button:|僧甑缯赠蹭|
-潸|从“𣏟”|从“林”                |:black_square_button:||
+麻|作“𣏟”“林”皆有|作“林”        |:black_square_button:|嘛嬷靡麽蘑|
+曾|作“八”|作“丷”                |:black_square_button:|僧甑缯赠蹭|
+潸|作“𣏟”|作“林”                |:black_square_button:||
 黄|混用|⿳龷由八                |:black_square_button:|横癀磺簧黉|
+赖|作“刀”|作“𠂊”                |:black_square_button:|懒濑獭　　|
 东车|㇜断笔|㇜连笔              |:black_square_button:|冻陈珲崭莲|
 亠|第一笔为竖点|第一笔为点      |:x:                  |弃亥亮衰帝|视为字型设计特色，不修改
 幺|第一笔为撇点|第一笔为撇折    |:x:                  |玄兹溪率畜|视为字型设计特色，不修改
@@ -90,10 +93,10 @@
 
 字 | 糖圆字形 | open 粉圆字形 | 例字 | 备注
 :---:|:-------|:---------|:-----|:-----
-化|从“𠤎”|从“匕”              |哗花讹货靴|
+化|作“𠤎”|作“匕”              |哗花讹货靴|
 辶|一点|两点                  |迈道随醚挞|传承版将修改
-兑|上从“丷”|上从“八”          |悦脱蜕说阅|传承版将修改
-食|中间竖点|从“亼”            |飧餍餐餮饔饕|传承版将修改
+兑|上作“丷”|上作“八”          |悦脱蜕说阅|传承版将修改
+食|中间竖点|作“亼”            |飧餍餐餮饔饕|传承版将修改
 者|无点|有点                  |堵潴煮署阇|
 
 
@@ -102,25 +105,26 @@
 字 | 糖圆字形 | 传承字形 | 例字 | 备注
 :---:|:-------|:---------|:-----|:-----
 刃|点穿撇|点与撇分开           |仞忍纫涩　|
-冬|从“⺀”|从“冫”                |凳澄癸葵阕|传承版将修改
-平|从“八”“丷”皆有|从“八”        |坪抨苹萍鲆|传承版将修改
-产|从“文”从“厂”|“立”加撇        |彦萨谚铲颜|
+冬|作“⺀”|作“冫”                |凳澄癸葵阕|传承版将修改
+平|作“八”“丷”皆有|作“八”        |坪抨苹萍鲆|传承版将修改
+半|作“丷”|作“八”                |伴判拌溿绊|
+产|作“文”作“厂”|“立”加撇        |彦萨谚铲颜|
 羽|两点、提|四撇                |僇耀摺翡翱|
 耒|第一笔为横/撇皆有|第一笔为横 |耕耢耨籍藕|
 免|中撇断不断笔皆有|中撇不断笔  |冕娩挽晚浼|
-秃|从“几”|从“儿”                |颓|
-廷|从“壬”|从“𡈼”                |庭挺梃艇霆|
-忝|从“夭”|从“天”                |掭添舔　　|传承版将修改
-青|从“月”|从“円”                |倩氰睛静靛|    
-㒸|从“八”“丷”皆有|从“八”        |燧遂邃隧　|
-俞|⿱亼刖|兪（从“亼”）          |偷喻愈输逾|
+秃|作“几”|作“儿”                |颓|
+廷|作“壬”|作“𡈼”                |庭挺梃艇霆|
+忝|作“夭”|作“天”                |掭添舔　　|传承版将修改
+青|作“月”|作“円”                |倩氰睛静靛|    
+㒸|作“八”“丷”皆有|作“八”        |燧遂邃隧　|
+俞|⿱亼刖|兪（作“亼”）          |偷喻愈输逾|
 𬙙|⿱罒方|⿱四方                |塄愣楞　　|
 臿|第一笔为撇|第一笔为横        |插歃锸　　|
 弱|两点、提|四撇                |搦溺　　　|
 害|中间混用|丯（或丰首笔撇）    |割瞎豁辖　|
 羞|中撇断笔|中撇不断笔          |馐|
 昷|“昷”“𥁕”皆有|𥁕              |愠氲温瘟辒|
-𭕆|从“⺌”|从“小”                |唢琐锁|
-强|从“虽”“𧈧”皆有|从“𧈧”        |犟糨膙襁镪|传承版将修改
-麻|从“𣏟”“林”皆有|从“𣏟”        |嘛嬷靡麽蘑|传承版将修改
+𭕆|作“⺌”|作“小”                |唢琐锁|
+强|作“虽”“𧈧”皆有|作“𧈧”        |犟糨膙襁镪|传承版将修改
+麻|作“𣏟”“林”皆有|作“𣏟”        |嘛嬷靡麽蘑|传承版将修改
 黄|混用|⿳廿⿱一田八            |横癀磺簧黉|
