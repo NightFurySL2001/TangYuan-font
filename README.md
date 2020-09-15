@@ -1,18 +1,18 @@
 # 传承糖圆体／猫啃网糖圆体 | <br> Inherit TangYuan / MaoKen TangYuan
 
-此为“传承糖圆体”／“猫啃网糖圆体”的公开仓库。在此提供了源文件及历史记录。
+此为「传承糖圆体」／「猫啃网糖圆体」的公开仓库。在此提供了源文件及历史记录。
 
 ## 目标
 
 本计划是在 [jf open 粉圆](https://github.com/justfont/open-huninn-font)的基础上进行简体补字，计划完成 GB/T 2312 及《通用规范汉字表》。
 
-**传承糖圆体**：在保留原字体的旧字形特征基础上补字，并修改字体贴近《[传承字形检校表](github.com/ichitenfont/inheritedglyphs)》。（目前未发布）
+**传承糖圆体**：在保留与传承原 open 粉圆的旧字形特征基础上补字，并修改字体贴近《[传承字形检校表](github.com/ichitenfont/inheritedglyphs)》。（目前未发布）
 
 **猫啃网糖圆体**：在保留原字体的特征上补字，并修改字体贴近中国国标字形（新字形）。
 
 ## 下载字体
 
-请前往**[发布页](https://github.com/NightFurySL2001/TangYuan-font/releases)**下载“传承糖圆体”／“猫啃网糖圆体”的最新版本。
+请前往 **[发布页](https://github.com/NightFurySL2001/TangYuan-font/releases)** 下载「传承糖圆体」／「猫啃网糖圆体」的最新版本。
 
 ## 详细内容
 
@@ -41,13 +41,13 @@
 本字体亦在 SIL Open Font License v1.1 （SIL开源字型授权，1.1 版）下公开发布，详细的授权条款可参阅[License文件](./LICENSE.txt)（[中译版参考](./LICENSE_ZH.txt)）。
 
 在此授权下，您可以：
-- 自由商用  
+- **自由商用**  
 无需付费、知会或标明作者即可自由使用此字体，也可做商业应用。
   
-- 自由散播  
+- **自由散播**  
 可以把字体嵌入到任何系统或软件中，而无须取得书面授权。
   
-- 自由修改  
+- **自由修改**  
 可以把字体修改重制成其它字库，但是修改后的字库也必须要依SIL Open Font License授权释出。
 
 ## 构建字体
@@ -64,6 +64,7 @@
 - Zonz
 - Alpha_Argon
 - But Ko ([@ButTaiwan](https://github.com/ButTaiwan))
+- 内木一郎及其[一点字坊](https://github.com/ichitenfont)团队
 - 曾国榕及其 [justfont](https://github.com/justfont) 团队
 
 ## 尾声
@@ -73,7 +74,7 @@
 ## 专页链接
 
 - [传承糖圆体专页](https://nightfurysl2001.github.io/tangyuan/)
-- [猫啃网糖圆体专页](http://maoken.com/tangyuan/)
+- [猫啃网糖圆体专页](https://maoken.com/tangyuan/)
 - [jf open 粉圆专页](https://justfont.com/huninn/)
 
 
