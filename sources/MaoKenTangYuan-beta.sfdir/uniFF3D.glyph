@@ -1,8 +1,9 @@
 StartChar: uniFF3D
-Encoding: 9053 65341 2624
-GlifName: uniF_F_3D_
+Encoding: 9053 65341 2620
 Width: 1024
-Flags: HW
+Flags: W
+HStem: -88 74<55.3071 262.508> 731 74<55.3071 262.508>
+VStem: 267 74<-9.41016 726.508>
 LayerCount: 2
 Fore
 SplineSet

@@ -14,6 +14,8 @@
 
 请前往 **[发布页](https://github.com/NightFurySL2001/TangYuan-font/releases)** 下载「传承糖圆体」／「猫啃网糖圆体」的最新版本。
 
+最新版本为 **0.11测试版**，2020 年 9 月 18 日更新。
+
 ## 详细内容
 
 - [更新日志](./UPDATES.md)

@@ -1,6 +1,5 @@
 StartChar: uni9600
 Encoding: 14119 38400 830
-GlifName: uni9600
 Width: 1024
 Flags: HW
 LayerCount: 2
