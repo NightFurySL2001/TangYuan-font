@@ -21,7 +21,7 @@
 
 - 增补汉字数字 `〇`（非 GB/T 2312 范围内）
 
-- 修改 8 个标点符号（`．，。、：；？！`）为简体中文标准置，即放置于左下角；直排版本也一并修改 （[#1](https://github.com/NightFurySL2001/TangYuan-font/issues/1)）
+- 修改 8 个标点符号（`．，。、：；？！`）为简体中文标准置，即放置于左下角；直排版本也一并修改 （https://github.com/NightFurySL2001/TangYuan-font/issues/1）
 
 - 调整引号（`“”‘’`）宽度及位置设置
 
@@ -54,6 +54,6 @@
 
 - 修复并补充方框绘制字符（U+2500 - U+254B）
 
-- 修复部分汉字的宽度非1024宽度问题（[粉圆#22](https://github.com/justfont/open-huninn-font/issues/22)）
+- 修复部分汉字的宽度非1024宽度问题（https://github.com/justfont/open-huninn-font/issues/22）
 
 - 【猫啃网糖圆体】：移除台罗拼音，添加[彩蛋（误）](https://maoken.com/tangyuan)
