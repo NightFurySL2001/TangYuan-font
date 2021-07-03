@@ -43,7 +43,7 @@
 
 1. 【猫啃网糖圆体】已完成补充 GB/T 2312，下一版本起【猫啃网糖圆体】将与【传承糖圆体】分叉维护。
 2. 【传承糖圆体】将会更名为【初粉汤圆体】，不再完全依据《传承字形校检表》制作（该团队已经有相关计划）。
-3. 本仓库（https://github.com/NightFurySL2001/TangYuan-font）将会在下一版本时进行重整以显示其来源于 justfont [粉圆]（）。现有链接将不会失效，但是目前此处的仓库将会被冻结，所有 issues 将转移新仓库。
+3. 本仓库（ https://github.com/NightFurySL2001/TangYuan-font ）将会在下一版本时进行重整以显示其来源于 justfont [open 粉圆](https://github.com/justfont/huninn)。现有链接将不会失效，但是目前此处的仓库将会被冻结，所有 issues 将转移新仓库。
 
 ## v0.11beta 2020/09/18
 
