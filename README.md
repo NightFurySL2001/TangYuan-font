@@ -6,7 +6,7 @@
 
 本计划是在 [jf open 粉圆](https://github.com/justfont/open-huninn-font)的基础上进行简体补字，计划完成 GB/T 2312 及《通用规范汉字表》。
 
-**传承糖圆体**：在保留与传承原 open 粉圆的旧字形特征基础上补字，并修改字体贴近《[传承字形检校表](github.com/ichitenfont/inheritedglyphs)》。（目前未发布）
+**传承糖圆体**（未来将更名为“初粉汤圆体”）：在保留原 open 粉圆的旧字形特征基础上补字，尽可能贴近融入 open 粉圆。（目前未发布）
 
 **猫啃网糖圆体**：在保留原字体的特征上补字，并修改字体贴近中国国标字形（新字形）。
 
@@ -14,7 +14,7 @@
 
 请前往 **[发布页](https://github.com/NightFurySL2001/TangYuan-font/releases)** 下载「传承糖圆体」／「猫啃网糖圆体」的最新版本。
 
-最新版本为 **0.11测试版**，2020 年 9 月 18 日更新。
+最新版本为 **0.12测试版**，2021 年 7 月 3 日更新。
 
 ## 详细内容
 
@@ -68,6 +68,8 @@
 - But Ko ([@ButTaiwan](https://github.com/ButTaiwan))
 - 内木一郎及其[一点字坊](https://github.com/ichitenfont)团队
 - 曾国榕及其 [justfont](https://github.com/justfont) 团队
+
+特别感谢 [@lxgw](https://github.com/lxgw/) 及 ZERO 子协助补全 GB/T 2312 和抓错别字。
 
 ## 尾声
 

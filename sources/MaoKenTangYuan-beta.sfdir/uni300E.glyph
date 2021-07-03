@@ -12,7 +12,7 @@ SplineSet
  935 803 956 782 956 740 c 2
  956 688 l 2
  956 646 935 625 893 625 c 2
- 778 625 l 2
+ 778 625 l 1
  761.333333333 623.666666667 752.666666667 615 752 599 c 2
  752 75 l 2
  752 33 731 12 689 12 c 2
@@ -32,6 +32,5 @@ SplineSet
  677 71 l 2
  687.666666667 71 693.333333333 77 694 89 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "vertVerticalAlternateslookup0 subtable" uniFE43
 EndChar

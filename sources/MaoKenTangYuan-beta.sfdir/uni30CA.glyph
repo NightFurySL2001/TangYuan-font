@@ -5,8 +5,7 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-592 537 m 1
- 891 537 l 2
+891 537 m 2
  927 537 945 522 945 492 c 0
  945 463.333333333 927 449 891 449 c 2
  589 449 l 1
@@ -26,7 +25,6 @@ SplineSet
  577.833333333 782 593 755.666666667 593 703 c 2
  593 594 l 1
  592 537 l 1
- 592 537 l 1
+ 891 537 l 2
 EndSplineSet
-Validated: 5
 EndChar
